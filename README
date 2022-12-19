@@ -1,0 +1,7 @@
+#installed packages
+pip install flask
+pip install tk-tools
+
+tkinter used for choosing specific directory to create file or choose file to perform updation
+
+test.sh file created to perform automation of git

@@ -1,5 +1,4 @@
 from flask import Flask,render_template,url_for,request,redirect
-from github import Github
 import tkinter as tk
 from tkinter import filedialog
 from tkinter.filedialog import asksaveasfilename
